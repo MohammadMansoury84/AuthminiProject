@@ -2,14 +2,6 @@
 <h1 align="center">🔐 AuthMiniProject</h1>
 <p align="center"><b>ASP.NET Core 8 Authentication REST API</b></p>
 
-<p>
-<span class="tag">C#</span>
-<span class="tag">ASP.NET Core 8</span>
-<span class="tag">Entity Framework Core</span>
-<span class="tag">MySQL</span>
-<span class="tag">JWT</span>
-</p>
-
 <h2>📌 Project Overview</h2>
 <p>
 AuthMiniProject is a backend authentication system developed with ASP.NET Core 8.
